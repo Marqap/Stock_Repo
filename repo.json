@@ -1,0 +1,21 @@
+{
+  "repo_name": "Default Repo",
+  "packages": [
+    {
+      "name": "RespringSys",
+      "description": "Simulates a respring using Climate.app's loading animation.",
+      "version": "1.0",
+      "author": "J. W.",
+      "shortcut_url": "https://www.icloud.com/shortcuts/8fedef7aab4647d38df46c5888f30a46",
+      "icon": "https://example.com/jailbreak-drill-icon.png"
+    },
+    {
+      "name": "Veritas",
+      "description": "A virtual assistant to enhance your productivity.",
+      "version": "1.0",
+      "author": "Your Name",
+      "shortcut_url": "https://www.icloud.com/shortcuts/9d502db9cff74216bffe17a683b71aba",
+      "icon": "https://example.com/jailbreak-drill-icon.png"
+    }
+  ]
+}
